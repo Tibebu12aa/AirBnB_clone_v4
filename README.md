@@ -160,7 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
-Kennedy wambua - [Github](https://github.com/homemix)
-Ojo Joseph - [Github](https://github.com/Timex19)
+Abraham Otieno - [Github](https://github.com)
+Tibebu Kassa - [Github](https://github.com/Tibebu12aa)
 ## License
 Public Domain. No copy write protection. 
